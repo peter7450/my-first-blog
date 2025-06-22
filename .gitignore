@@ -1,6 +1,7 @@
 # Python
 *.pyc
 *~
+
 __pycache__
 
 # Env
@@ -13,12 +14,6 @@ db.sqlite3
 
 # Static folder at project root
 /static/
-
-# macOS
-._*
-.DS_Store
-.fseventsd
-.Spotlight-V100
 
 # Windows
 Thumbs.db*
